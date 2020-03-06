@@ -1,4 +1,4 @@
-# README
+# Lloigazath's Github bin
 Just a brief explanation:
 
 Apologies for the cluster fuck organization that I have of a repositroy.
