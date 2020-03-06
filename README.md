@@ -1,5 +1,5 @@
-# mynameauddiodaddio
-Everything for the server
+# README
+Just a brief explanation:
 
 Apologies for the cluster fuck organization that I have of a repositroy.
 Didn't think ahead of the game...
