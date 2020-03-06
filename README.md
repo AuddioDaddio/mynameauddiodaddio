@@ -1,7 +1,7 @@
 # Lloigazath's Github bin
 Just a brief explanation:
 
-Apologies for the cluster-fuck organization-that I have of a repositroy.
+Apologies for the cluster-fuck-organization that I have of a repositroy.
 Didn't think ahead of the game...
 
 There's 3 different branches; master, Xtras, & SimpleNetworks.
