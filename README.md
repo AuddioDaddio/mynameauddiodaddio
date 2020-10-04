@@ -4,7 +4,7 @@ Didn't think ahead of the game...
 
 Now for a brief explanation:
 
-There's 3 different branches; master, Xtras, & SimpleNetworks.
+There's 3 different branches: master, Xtras, & SimpleNetworks.
 
 master contains my Hip-Hop/Rap playlist songs that you might of heard of.
 
